@@ -1,1 +1,1 @@
-# NLP-Movie-Review-Sentiment-Analysis
+# NLP-IMDB-Movie-Review-Sentiment-Analysis
